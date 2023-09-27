@@ -1,0 +1,101 @@
+.numara {
+    font-size: 35px;
+}
+
+.logomedium {
+    height: 25px;
+}
+
+#btnGetStarted {
+    border-radius: 40px;
+    
+    
+}
+
+.bgcolor {
+    background-color: #FFC017;
+}
+
+
+.heightnav{
+    height: 75px;
+    
+}
+
+
+
+.bordercizgi {
+    border-bottom: 1px solid;
+    border-color: black;
+}
+
+.rowbg {
+    background-color: #FFC017;
+}
+
+.h3-font{
+    
+    line-height: 24px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #242424;
+    display: block;
+    
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+
+.yazar {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.konu {
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.tarih {
+    font-size: 12px;
+}
+
+.line-height {
+    line-height: 10px;
+}
+.imgduzen {
+   border-radius: 80%;
+}
+.btnozellik {
+    margin-top: 10px;
+    border: 0px solid;
+    border-radius:40px;
+    padding: 10px 10px 10px 10px;
+    font-size: 14px;
+}
+
+.mymargin{
+    margin-top: 30px;   
+}
+
+.my-a{
+    margin-left: 10px;
+    color: #7d7a6c;
+    font-size: 15px;
+    letter-spacing: -0.03em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ustduzen {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.my-a:hover{
+    color: #FFC017;
+    text-decoration: none;
+}
